@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm aryan</h1>
 <h3 align="center">A Cross Mobile App Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aryanbansal273&label=Profile%20views&color=0e75b6&style=flat" alt="Aryanbansal273" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythima&label=Profile%20views&color=0e75b6&style=flat" alt="rhythima" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanbansal273" alt="Aryanbansal273" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
